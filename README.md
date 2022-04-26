@@ -1,7 +1,10 @@
 # project-Grafkom
 kelompok 24
+
 Ronaldo Galih Pratama - C14200109
+
 Nico Tantoroputro - C14200132
+
 Yoga Aditya Wicaksono - C14200137
 
 
